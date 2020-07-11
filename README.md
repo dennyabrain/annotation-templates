@@ -1,1 +1,1 @@
-# annotation-templates
+# Remix this before using!
